@@ -12,8 +12,16 @@ namespace Api.Controllers
         [HttpGet]
         public async Task<IActionResult> Get([FromServices] AppDbContext context)
         {
-            var categories = await context.Categories.ToListAsync();
-            return Ok(categories);
+            try
+            {
+                var categories = await context.Categories.ToListAsync();
+                return Ok(categories);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+                throw;
+            }
         }
 
         

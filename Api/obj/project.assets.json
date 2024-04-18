@@ -11437,11 +11437,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Balta/curso-balta.io/Api-blog/Blog/Api/Api.csproj",
+      "projectUniqueName": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Balta/curso-balta.io/Api-blog/Blog-API-DotNet/Api/Api.csproj",
       "projectName": "Api",
-      "projectPath": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Balta/curso-balta.io/Api-blog/Blog/Api/Api.csproj",
+      "projectPath": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Balta/curso-balta.io/Api-blog/Blog-API-DotNet/Api/Api.csproj",
       "packagesPath": "/Users/mizaeldouglasmello/.nuget/packages/",
-      "outputPath": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Balta/curso-balta.io/Api-blog/Blog/Api/obj/",
+      "outputPath": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Balta/curso-balta.io/Api-blog/Blog-API-DotNet/Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mizaeldouglasmello/.nuget/NuGet/NuGet.Config"
